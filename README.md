@@ -11,7 +11,7 @@ And here , we came up with an idea of developing a website for the community as 
     <a href="https://discord.gg/FZusE7FH4q">👋 join our discord community <strong>Coders Evoke</strong> </a>
     </h3>
 
-## Contributing to this Repodndkendkndkdnkendkendken
+## Contributing to this Repo
 
 **1.** Fork [this](https://github.com/Coders-Evoke-Community/CodersEvoke_website/fork) repository.
 
